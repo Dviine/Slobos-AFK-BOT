@@ -8,7 +8,7 @@
   "server": {
     "ip": "whitesonly.aternos.me",
     "port": 58668,
-    "version": ""
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
